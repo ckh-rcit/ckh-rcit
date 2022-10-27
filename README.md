@@ -6,3 +6,7 @@
 **[IT Handbook](https://ithandbook.net/)** - Owner/Maintainer
 
 ![Profile views](https://gpvc.arturio.dev/ckh-rcit)
+
+**Non-Professional Work:**
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juddisjudd?tab=repositories)
