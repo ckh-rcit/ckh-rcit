@@ -1,9 +1,5 @@
 ### Hi, I'm Chris Harris!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckh-rcit&show_icons=true&theme=dark)
-
-**[IT Handbook](https://ithandbook.net/)** - Owner/Maintainer
-
 ![Profile views](https://gpvc.arturio.dev/ckh-rcit)
 
 **Non-Professional Work:**
