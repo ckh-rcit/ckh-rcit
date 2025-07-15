@@ -1,6 +1,5 @@
-### Hi, I'm Chris Harris!
-
-![Profile views](https://gpvc.arturio.dev/ckh-rcit)
+### Hi, I'm Chris!
+Over 15 years in the IT field and Development in various languages.
 
 **Non-Professional Work:**
 
